@@ -1,0 +1,12 @@
+"CAGDP2 Gross domestic product (GDP) by county and metropolitan area 1/"
+"Gross Domestic Product (GDP): Government and government enterprises (Thousands of dollars)" 
+"Bureau of Economic Analysis" 
+"Metropolitan Statistical Area"
+"GeoFips","GeoName","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)",3496141,3798432,3918748,4044832,4267400,4470063,4591905,4809840,5017000,5376002,5330198,5608395,5760189,5830715,6224029,6251065,6607057,6812000,7268236
+"19820","Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",15376580,16108537,16890635,17262962,18127258,18027228,18180821,18810616,18903497,19183292,18490122,18055101,18117747,18144073,18736765,18712835,19202321,19650674,20168644
+"24340","Grand Rapids-Kentwood, MI (Metropolitan Statistical Area)",2920790,3067418,3147173,3243510,3428381,3499839,3588294,3727624,3766839,3866892,3889331,3920246,4033519,4084752,4216619,4209349,4350174,4473161,4619901
+"Legend / Footnotes:"
+"1/ Gross Domestic Product (GDP) is in thousands of current dollars (not adjusted for inflation). Industry detail is based on the 2012 North American Industry Classification System (NAICS)."
+"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 20-01 issued March 6, 2020."
+"Last updated: December 9, 2020 -- new statistics for 2019, revised statistics for 2001-2018."
