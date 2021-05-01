@@ -1,0 +1,13 @@
+"CAGDP9 Real GDP by county and metropolitan area 1/"
+"Real GDP: Government and government enterprises (Thousands of chained 2012 dollars)" 
+"Bureau of Economic Analysis" 
+"Metropolitan Statistical Area"
+"GeoFips","GeoName","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019"
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)",5018658,5268103,5256483,5197819,5283201,5307130,5217156,5292881,5338227,5580934,5445915,5608395,5542616,5443378,5634353,5603935,5835461,5835679,6066276
+"19820","Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",22047005,22257901,22497233,22055360,22301339,21278033,20559382,20631833,20086302,19879717,18848176,18055101,17518429,17041661,17096429,16912801,17085366,16961673,16975265
+"24340","Grand Rapids-Kentwood, MI (Metropolitan Statistical Area)",4193227,4248774,4208139,4157781,4232863,4144829,4069126,4097135,4006937,4012587,3971379,3920246,3886105,3819411,3824797,3781353,3849388,3839425,3864114
+"Legend / Footnotes:"
+"1/ Real GDP is in thousands of chained 2012 dollars. Industry detail is based on the 2012 North American Industry Classification System (NAICS)."
+"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 20-01 issued March 6, 2020."
+"* For the All industry total and Government and government enterprises, the difference between the United States and Metropolitan and Nonmetropolitan portions reflects overseas activity, economic activity taking place outside the borders of the United States by the military and associated federal civilian support staff."
+"Last updated: December 9, 2020 -- new statistics for 2019, revised statistics for 2001-2018."
